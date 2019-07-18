@@ -2,7 +2,7 @@
 
 > A Vue.js project
 
-### Visit https://healthx-3e74e.firebaseapp.com/ to try out the application (You can use the credentials aka434112@gmail.com/Ajith@1996 to try out the application)
+### Visit https://healthx-3e74e.firebaseapp.com/ to try out the application (Credentials to try out the application: aka434112@gmail.com/Ajith@1996)
 ## Build Setup
 
 ``` bash
